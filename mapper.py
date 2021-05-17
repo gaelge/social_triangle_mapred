@@ -4,7 +4,7 @@
 
 import sys
 
-""" Mapper: identifier et compter les triangles """
+""" Mapper: extraire les relations des potentiels triangles """
 
 
 def main(file):
